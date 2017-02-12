@@ -1,3 +1,5 @@
 here from master, add below for test in other branches!
 
-hey! I'm adding new feature 1 
+hey! I'm changing myfeatures into second feature on this line
+
+and added 2ndfeature new line here! 

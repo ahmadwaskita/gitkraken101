@@ -1,1 +1,3 @@
-adding 2nd feature on new file
+adding 2nd hotfix on 2ndfeature in this line
+
+then add new line here for hotfix purpose!

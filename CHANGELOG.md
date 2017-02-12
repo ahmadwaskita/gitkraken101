@@ -1,3 +1,7 @@
+## 0.1.1 (Pebruari 13, 2017)
+  - Merge branch 'release-0.1' into develop
+  - bumped version to number 0.1
+
 ## 0.1.0 (Pebruari 13, 2017)
   - Merged 2ndfeature into develop
   - 002 add 2ndfeature and modified notes
